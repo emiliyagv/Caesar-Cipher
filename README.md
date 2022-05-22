@@ -8,7 +8,7 @@ Emiliya Gaybaliyeva
 ```
 Javac Main.java
 ``` 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for running :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For running the program:
  ```
   Java Main 
  ```
