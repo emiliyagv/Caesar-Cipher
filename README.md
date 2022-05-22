@@ -10,12 +10,12 @@ Javac Main.java
 ``` 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for running :
  ```
-  Java Main
+  Java Main 
  ```
  
- -Enter a word
- -Enter a key which you want to move the word with
- -see the result
+ * Enter a word
+ * Enter a key which you want to move the word with
+ * see the result
  
 # Small demonstration 
 
